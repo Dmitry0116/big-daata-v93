@@ -1,0 +1,2 @@
+chi2,p-value,degrees_of_freedom
+Column<'statistics'>,Column<'pValues'>,Column<'degreesOfFreedom'>
